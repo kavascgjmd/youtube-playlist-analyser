@@ -1,0 +1,19 @@
+{
+  "name": "webd_project_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "into.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^15.3.2",
+    "puppeteer-core": "^15.3.2",
+    "request": "^2.88.2"
+  }
+}
